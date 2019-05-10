@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KKday</string>
+    <string name="title_home">首頁</string>
+    <string name="title_search">搜尋</string>
+    <string name="title_favorites">收藏</string>
+    <string name="title_order">訂單</string>
+    <string name="title_mine">我的</string>
+    <string name="title_recently">最近瀏覽</string>
+    <string name="title_searchText">搜尋景點、國家或城市</string>
+    <string name="button">立刻購買</string>
+    <string name="tv_cv1">訂單確認方式</string>
+    <string name="tv_cv2">使用效期</string>
+    <string name="tv_cv3">使用方法</string>
+    <string name="tv_cv4">取消政策</string>
+
+</resources>
